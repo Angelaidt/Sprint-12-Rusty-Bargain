@@ -1,5 +1,7 @@
 # Sprint 12 - Projeto 12/17 BootCamp TripleTen de Ciências de Dados
-
+<p align="center">
+<img src= "https://github.com/Angelaidt/Sprint-12-Rusty-Bargain/blob/main/imagem%20projeto%2012.png"
+</p>
 
 
 # Introdução
