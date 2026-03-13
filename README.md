@@ -7,7 +7,7 @@
 # Introdução
 O Rusty Bargain é um serviço de venda de carros usados que está desenvolvendo um novo aplicativo móvel para atrair e reter clientes. A proposta de valor do app é permitir que qualquer usuário descubra rapidamente o valor de mercado de seu veículo. Para viabilizar essa funcionalidade, o projeto utiliza uma base de dados históricos contendo especificações técnicas, versões de acabamento e preços de venda reais.
 
-🎯 # Objetivo do Projeto
+# Objetivo do Projeto 🎯
 
 O objetivo central é construir e comparar modelos de Machine Learning para determinar o valor comercial de um carro. O Rusty Bargain estabeleceu três critérios de sucesso críticos para a viabilidade do negócio:
 
