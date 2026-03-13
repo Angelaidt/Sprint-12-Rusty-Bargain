@@ -22,7 +22,7 @@ O desafio técnico consiste em equilibrar esses três pilares através da compar
 # Estrutura do Repositório
 Veja os dados utilizados : 
 
-![Dados Sprint 11 - arquivo  CSV](https://github.com/Angelaidt/Sprint-12-Rusty-Bargain/blob/main/car_data.zip)
+![Dados Sprint 12 - arquivo  CSV](https://github.com/Angelaidt/Sprint-12-Rusty-Bargain/blob/main/car_data.zip)
 
 
 # 🚀 Tecnologias: 
