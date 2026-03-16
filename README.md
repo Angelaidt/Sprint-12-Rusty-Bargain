@@ -1,8 +1,8 @@
 # Sprint 12 - Projeto 12/17 BootCamp TripleTen de Ciências de Dados
-<p align="center">
-<img src= "https://github.com/Angelaidt/Sprint-12-Rusty-Bargain/blob/main/imagem%20projeto%2012.png"
-</p>
 
+<div align="center">
+  <img src="https://github.com/Angelaidt/Sprint-12-Rusty-Bargain/blob/main/imagem%20projeto%2012.png" width="40%">
+</div>
 
 # Introdução
 O Rusty Bargain é um serviço de venda de carros usados que está desenvolvendo um novo aplicativo móvel para atrair e reter clientes. A proposta de valor do app é permitir que qualquer usuário descubra rapidamente o valor de mercado de seu veículo. Para viabilizar essa funcionalidade, o projeto utiliza uma base de dados históricos contendo especificações técnicas, versões de acabamento e preços de venda reais.
